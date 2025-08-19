@@ -1,5 +1,3 @@
----
-
 ### 📚 **Home Screen: Personalized Dashboard**
 - **Greeting + Avatar**: “Welcome back, Prithviraj 👋” with profile pic and XP level
 - **Quick Stats**: Points earned, current rank, streak count
